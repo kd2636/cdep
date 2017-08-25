@@ -13,22 +13,14 @@ CDep comes from members of the Android Studio team and is not an official Google
 ## Get started with CDep
 Here are some things you can do to get started with CDep.
 * [Add CDep dependencies to an existing Android Studio CMake project](doc/android-studio-cmake.md)
-* [Author a new CDep package and host it on Github](doc/authoring.md)
-* [Learn about the structure of CDep packages](doc/anatomy.md)
-* [Contribute to CDep](CONTRIBUTING.md)
-* [Request a new package or submit a bug report](https://github.com/google/cdep/issues/new)
-* [See an Android Studio Freetype and SDL2 sample](https://github.com/jomof/cdep-android-studio-freetype-sample)
+* [Author a negfd\ and SDL2 sample](https://github.com/jomof/cdep-android-studio-freetype-sample)
 * [See an Android Studio ndk-build sample](https://github.com/jomof/ndk-build-meet-cdep)
 * [Learn how CDep resolves coordinates](doc/coordinate-resolution.md)
 * [Learn about CDep tool command line flags](doc/command-line-flags.md)
 * [Learn about cdep.yml file](doc/cdep-yml.md)
 
 ## Getting started on Windows
-Get started with CDep on Windows, enter the following in the command line:
-
-     > git clone https://github.com/jomof/cdep-redist.git  
-     > cd my-project
-     > ..\cdep-redist\cdep wrapper
+Get started with CDep on Windows, enter the f
 
 After this, the instructions are the same as Linux and Mac.
 
